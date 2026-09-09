@@ -1,0 +1,17 @@
+{
+  "channel": "your_channel",
+  "moderation": {
+    "enabled": true,
+    "ignore_moderators": false,
+    "blocked_words": [],
+    "blocked_phrases": [],
+    "blocked_substrings": [],
+    "use_builtin_dictionary": true,
+    "anti_obfuscation": true
+  },
+  "timer": {
+    "enabled": true,
+    "interval_minutes": 60,
+    "message": "Здесь напиши свою фразу!"
+  }
+}
