@@ -16,17 +16,7 @@
 - распознавать часть обходов написания вроде `n1g@`, `n.i.g.g.a` и похожих вариантов;
 - отправлять свою фразу в чат по таймеру;
 - настраиваться через **веб-панель**.
-
-### Если не хочешь настраивать сам
-
-Если тебе лень запускать всё локально, есть готовый сайт:
-
-**https://damnownbot-twitch-damnownxr.amvera.io/**
-
-Там можно подключить облачную версию через сайт.
-
-**Важно:** сайт пока только **на русском языке**.
-
+  
 ---
 
 ## Как работает эта версия?
@@ -316,16 +306,6 @@ It can:
 - detect some obfuscated spellings like `n1g@` or `n.i.g.g.a`;
 - send a timed message to chat;
 - be configured from a **web panel**.
-
-### If you do not want to set it up yourself
-
-There is also a ready website:
-
-**https://damnownbot-twitch-damnownxr.amvera.io/**
-
-You can use the cloud version there.
-
-**Important:** the website is currently available in **Russian only**.
 
 ---
 
