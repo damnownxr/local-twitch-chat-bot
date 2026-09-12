@@ -1,4 +1,4 @@
-# Damnowner chat bot v1
+# Local twitch chat bot v1
 
 ---
 
@@ -6,7 +6,7 @@
 
 ### Что это за бот?
 
-**Damnowner chat bot** — это локальный Twitch chat bot с веб-панелью.
+**Local twitch chat bot** — это локальный Twitch chat bot с веб-панелью.
 
 Он умеет:
 - удалять сообщения с запрещёнными словами;
@@ -296,7 +296,7 @@ Ctrl + C
 
 ### What kind of bot is this?
 
-**Damnowner chat bot** is a local Twitch chat bot with a web panel.
+**Local twitch chat bot** is a local Twitch chat bot with a web panel.
 
 It can:
 - delete messages with blocked words;
